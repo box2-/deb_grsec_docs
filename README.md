@@ -47,3 +47,6 @@ search --no-floppy --fs-uuid --set=root <uuid etc>
 real    36m55.823s
 user    77m16.818s
 sys     7m6.519s
+
+http://debian-handbook.info/browse/stable/sect.kernel-compilation.html<br />
+
